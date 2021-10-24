@@ -76,4 +76,8 @@ body {
     2px -2px 0 #000,
     -2px 2px 0 #000,
     2px 2px 0 #000; 
+  transition-duration: 0.3s;
+}
+.redLink:hover {
+  color:#7a1414;
 }
