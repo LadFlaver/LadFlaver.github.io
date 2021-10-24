@@ -50,7 +50,7 @@ body {
   background-color: Transparent;
   background-color: rgba(122,20,20,0.3);
 }
-.centered {
+.center {
   position: absolute;
   top: 50%;
   left: 50%;
