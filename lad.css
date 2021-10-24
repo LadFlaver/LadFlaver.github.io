@@ -50,10 +50,22 @@ body {
   background-color: Transparent;
   background-color: rgba(122,20,20,0.3);
 }
-.center {
+.centered {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translateX(-50%) translateY(-75%);
   text-align:center;
+}
+.redText {
+  color:#b51f1f;
+  font-weight:bold;
+  font-size:30px;
+  -webkit-text-stroke: 0.25px white;
+}
+.redLink {
+  color:#b51f1f;
+  font-weight:bold;
+  font-size:30px;
+  -webkit-text-stroke: 0.25px white;
 }
