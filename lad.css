@@ -61,11 +61,19 @@ body {
   color:#b51f1f;
   font-weight:bold;
   font-size:30px;
-  -webkit-text-stroke: 0.25px white;
+  text-shadow:
+    -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000; 
 }
 .redLink {
   color:#b51f1f;
   font-weight:bold;
   font-size:30px;
-  -webkit-text-stroke: 0.25px white;
+  text-shadow:
+    -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000; 
 }
