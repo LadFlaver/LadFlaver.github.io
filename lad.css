@@ -1,0 +1,59 @@
+html {
+  font-family:verdana;
+}
+body {
+  background-image: url('earthmoontwo.png');
+  background-size: cover;
+  background-attachment: fixed;
+}
+.blueButton {
+  border:5px;
+  border-style:solid;
+  border-color:#3381f5;
+  color:#ffffff;
+  transition-duration: 0.3s;
+  cursor:pointer;
+  background-color:Transparent;
+  background-color: rgba(51,129,245,0.3);
+  font-size:35px;
+  padding:5px;
+  padding-left:50px;
+  padding-right:50px;
+  text-decoration: none;
+  font-weight: bold
+}
+.blueButton:hover {
+  border-color:#215096;
+  background-color:Transparent;
+  background-color: rgba(33,80,150,0.3);
+}
+
+.redButton {
+  border:5px;
+  border-style:solid;
+  color:#b51f1f;
+  transition-duration: 0.3s;
+  cursor:pointer;
+  background-color: Transparent;
+  background-color: rgba(181,31,31,0.3);
+  font-size:35px;
+  padding:5px;
+  padding-left:96px;
+  padding-right:96px;
+  text-decoration: none;
+  font-weight: bold;
+  border-color:#b51f1f;
+  color:#ffffff;
+}
+.redButton:hover {
+  border-color:#7a1414;
+  background-color: Transparent;
+  background-color: rgba(122,20,20,0.3);
+}
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-75%);
+  text-align:center;
+}
