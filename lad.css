@@ -2,9 +2,10 @@ html {
   font-family:verdana;
 }
 body {
-  background-image: url('EarthMoonRemastered1080.png');
-  background-size: cover;
+  background: url('/resources/EarthMoonRemastered1080.jpg');
+  background-size: auto;
   background-attachment: fixed;
+  background-position: 30%;
 }
 .blueButton {
   border:5px;

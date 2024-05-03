@@ -1,0 +1,139 @@
+a {
+    color:#3381F5;
+    transition-duration: 0.2s;
+}
+a:hover {
+    color: #6357be;
+}
+a:visited {
+    color: #6357be;
+}
+body {
+    height: 100%;
+}
+html {
+    background: url('/resources/EarthMoonRemastered1080.jpg');
+    background-attachment: fixed;
+    background-position: 15%;
+    background-size: auto;
+    color:#F5F5F5;
+    font-family:Arial;
+    height: 100%;
+    padding: 0px;
+}
+.blueButton {
+    background-color: #3381f550;
+    border-color: #3381F5;
+    border-radius: 15px 15px 0px 0px;
+    border-style: solid;
+    border-width: 5px;
+    color: #F5F5F5;
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    transition-duration: 0.2s;
+    width: 350px;
+}
+.blueButton:hover {
+    background-color: #14408050;
+    border-color: #144080;
+    color: #F5F5F5;
+}
+.blueButton:visited {
+    color: #F5F5F5;
+}
+.curseButton {
+    background-color: #f1643650;
+    border-color: #f16436;
+    border-style: solid;
+    border-width: 5px;
+    color: #F5F5F5;
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    transition-duration: 0.2s;
+    width: 350px;
+}
+.curseButton:hover {
+    background-color: #7d301650;
+    border-color: #7d3016;
+    color: #F5F5F5;
+}
+.curseButton:visited {
+    color: #F5F5F5;
+}
+.rinthButton {
+    background-color: #1bd96850;
+    border-color: #1bd968;
+    border-style: solid;
+    border-width: 5px;
+    color: #F5F5F5;
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    transition-duration: 0.2s;
+    width: 350px;
+}
+.rinthButton:hover {
+    background-color: #17633650;
+    border-color: #176336;
+    color: #F5F5F5;
+}
+.rinthButton:visited {
+    color: #F5F5F5;
+}
+.redButton {
+    background-color: #b51f1f50;
+    border-color: #b51f1f;
+    border-radius: 0px 0px 15px 15px;
+    border-style: solid;
+    border-width: 5px;
+    color: #F5F5F5;
+    font-size: 35px;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    transition-duration: 0.2s;
+    width: 350px;
+}
+.redButton:hover {
+    background-color: #7a141450;
+    border-color: #7a1414;
+    color: #F5F5F5;
+}
+.redButton:visited {
+    color: #F5F5F5;
+}
+.redContainer {
+    background-color: #101010;
+    border-color: #b51f1f;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 5px;
+    font-size: 25px;
+    width: 700px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: left;
+}
+.flexPage {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+}
+.invisibleSpacer {
+    padding: 10px;
+}
