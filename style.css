@@ -15,7 +15,7 @@ html {
     background: url('/resources/EarthMoonRemastered1080.jpg');
     background-attachment: fixed;
     background-position: 15%;
-    background-size: auto;
+    background-size: cover;
     color:#F5F5F5;
     font-family:Arial;
     height: 100%;
