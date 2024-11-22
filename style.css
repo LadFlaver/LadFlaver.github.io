@@ -68,6 +68,29 @@ html {
 .curseButton:visited {
     color: #F5F5F5;
 }
+.greenButton {
+    background-color: #1e911450;
+    border-color: #1e9114;;
+    border-style: solid;
+    border-width: 5px;
+    color: #F5F5F5;
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    transition-duration: 0.2s;
+    width: 350px;
+}
+.greenButton:hover {
+    background-color: #14421050;
+    border-color: #144210;
+    color: #F5F5F5;
+}
+.greenButton:visited {
+    color: #F5F5F5;
+}
 .rinthButton {
     background-color: #1bd96850;
     border-color: #1bd968;
@@ -136,4 +159,27 @@ html {
 }
 .invisibleSpacer {
     padding: 10px;
+}
+.yellowButton {
+    background-color: #f8790950;
+    border-color: #f87909;
+    border-style: solid;
+    border-width: 5px;
+    color: #F5F5F5;
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    transition-duration: 0.2s;
+    width: 350px;
+}
+.yellowButton:hover {
+    background-color: #713d1050;
+    border-color: #713d10;
+    color: #F5F5F5;
+}
+.yellowButton:visited {
+    color: #F5F5F5;
 }
